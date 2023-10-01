@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AttackOnCats
 - 👀 I’m interested in programming, information security and testing.
-- 💞️ I’m looking for a job in Oslo, Norway.
+- 💞️ I’m currently working as a Platform Engineer in Oslo, Norway.
 - 📫 Reach me by sending me a message on LinkedIn: linkedin.com/in/kajastavik/
 
 <!---
